@@ -37,7 +37,6 @@ open class Acuario(
     }
 }
 
-// SUBCLASE
 class TanqueTorre(
     override var alto: Int,
     var diametro: Int
